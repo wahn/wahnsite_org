@@ -10,8 +10,17 @@
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
+        <!-- share buttons (provided by ct's Sharrif) -->
+        <br>
+        <div class="shariff" data-lang="en"></div>
+        <br>
       </div>
     </div>
+
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/js/jquery.min.js"></script>
+    <!-- https://github.com/heiseonline/shariff -->
+    <script src="/js/shariff.min.js"></script>
 
     {% include footer.html %}
 
