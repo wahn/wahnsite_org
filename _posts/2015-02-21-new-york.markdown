@@ -16,7 +16,7 @@ images:
   - name: momi.png
     text: Museum of MOving Images
   - name: monikas_cafe_bar.png
-    text: Museum of Moving Images
+    text: Monika's Cafe Bar
   - name: continental_center.png
     text: Continental Center
   - name: continental_center_02.png
