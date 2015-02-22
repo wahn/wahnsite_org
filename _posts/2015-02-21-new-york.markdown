@@ -6,94 +6,64 @@ categories: jekyll photos ny
 imgfolder: /assets/ny 
 images:
   - name: view_from_30th_116_john_street.png
-    thumb: view_from_30th_116_john_street_thumb.png
     text: 116 John Street - view from apartment
   - name: pier_16_south_street_seaport_museum.png
-    thumb: pier_16_south_street_seaport_museum_thumb.png
     text: Pier 16 South Street Seaport Museum
   - name: brooklyn_bridge.png
-    thumb: brooklyn_bridge_thumb.png
     text: Brooklyn Bridge Preview
   - name: brooklyn_bridge_02.png
-    thumb: brooklyn_bridge_02_thumb.png
     text: Brooklyn Bridge for real
   - name: momi.png
-    thumb: momi_thumb.png
     text: Museum of MOving Images
   - name: monikas_cafe_bar.png
-    thumb: monikas_cafe_bar_thumb.png
     text: Museum of Moving Images
   - name: continental_center.png
-    thumb: continental_center_thumb.png
     text: Continental Center
   - name: continental_center_02.png
-    thumb: continental_center_02_thumb.png
     text: Continental Center
   - name: continental_center_03.png
-    thumb: continental_center_03_thumb.png
     text: Continental Center
   - name: continental_center_04.png
-    thumb: continental_center_04_thumb.png
     text: Continental Center
   - name: beekman_tower.png
-    thumb: beekman_tower_thumb.png
     text: Beekman Tower
   - name: beekman_tower_02.png
-    thumb: beekman_tower_02_thumb.png
     text: Beekman Tower
   - name: south_street_seaport_museum.png
-    thumb: south_street_seaport_museum_thumb.png
     text: South Street Seaport Museum
   - name: wavertree.png
-    thumb: wavertree_thumb.png
     text: Wavertree
   - name: lower_manhattan.png
-    thumb: lower_manhattan_thumb.png
     text: Lower Manhattan
   - name: statue_of_liberty.png
-    thumb: statue_of_liberty_thumb.png
     text: Statue of Liberty
   - name: statue_of_liberty_02.png
-    thumb: statue_of_liberty_02_thumb.png
     text: Statue of Liberty
   - name: goldman_sachs_jersey_city.png
-    thumb: goldman_sachs_jersey_city_thumb.png
     text: Goldman Sachs Jersey City
   - name: world_financial_center_ferry_terminal.png
-    thumb: world_financial_center_ferry_terminal_thumb.png
     text: World Financial Center Ferry Terminal
   - name: museum_of_jewish_heritage.png
-    thumb: museum_of_jewish_heritage_thumb.png
     text: Museum of Jewish Heritage
   - name: whitehall_building.png
-    thumb: whitehall_building_thumb.png
     text: Whitehall Building
   - name: the_ritz-carlton.png
-    thumb: the_ritz-carlton_thumb.png
     text: The Ritz-Carlton
   - name: old_slip.png
-    thumb: old_slip_thumb.png
     text: Old Slip
   - name: maiden_ln.png
-    thumb: maiden_ln_thumb.png
     text: Maiden Ln
   - name: 42rd_st_near_bryant_pk.png
-    thumb: 42rd_st_near_bryant_pk_thumb.png
     text: 42rd St near Bryant Pk
   - name: 43rd_st_near_times_square.png
-    thumb: 43rd_st_near_times_square_thumb.png
     text: 43rd St near Times Square
   - name: one_world_trade_center_beekman_tower.png
-    thumb: one_world_trade_center_beekman_tower_thumb.png
     text: One World Trade Center Beekman Tower
   - name: one_world_trade_center_03.png
-    thumb: one_world_trade_center_03_thumb.png
     text: One World Trade Center
   - name: one_world_trade_center.png
-    thumb: one_world_trade_center_thumb.png
     text: One World Trade Center
   - name: one_world_trade_center_02.png
-    thumb: one_world_trade_center_02_thumb.png
     text: One World Trade Center
 ---
 
