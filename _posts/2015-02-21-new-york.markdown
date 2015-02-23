@@ -14,7 +14,7 @@ images:
   - name: brooklyn_bridge_02.png
     text: Brooklyn Bridge for real
   - name: momi.png
-    text: Museum of MOving Images
+    text: Museum of Moving Images
   - name: monikas_cafe_bar.png
     text: Monika's Cafe Bar
   - name: continental_center.png
