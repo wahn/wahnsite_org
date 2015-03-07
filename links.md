@@ -28,3 +28,5 @@ Links
 
     - [Shariff:
       Social-Media-Buttons](http://www.heise.de/ct/artikel/Shariff-Social-Media-Buttons-mit-Datenschutz-2467514.html)
+
+    - [Font Awesome](http://fontawesome.io)
