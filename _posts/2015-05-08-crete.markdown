@@ -1,0 +1,110 @@
+---
+layout: post
+title:  "Crete May 2015"
+date:   2015-05-08 08:50:00
+categories: jekyll holiday greece
+---
+
+<p class="text-center"><img src="/assets/crete/Crete.png" alt="The
+Crete Island."  width="740" class="img-thumbnail"/></p>
+
+# Arrival - May 8
+
+     8:50 - 10:05 Berlin-Tegel - Wien
+    11:20 - 14:40 Wien - Chania
+
+<p class="text-center"><img
+src="/assets/crete/Chania-Lito_Apartments.png" alt="Airport to first
+night's apartment in Paleochora."  width="740"
+class="img-thumbnail"/></p>
+
+# [Paleochora][paleochora]
+
+    08.05.15-13.05.15 LITO App., Kreta West / Paleochora
+    0030-28210 64931
+
+[Lito Apartments Paleochora][lito-paleochora]
+
+<p class="text-center"><img src="/assets/crete/Paleochora.png"
+alt="Map of Paleochora." width="740" class="img-thumbnail"/></p>
+
+<p class="text-center"><img
+src="/assets/crete/Paleochora_sand_beach_01.png" alt="Paleochora's
+sand beach."  width="740" class="img-thumbnail"/></p>
+
+<p class="text-center"><img
+src="/assets/crete/Lito_Apartments-Almyrida_Beach.png" alt="From
+Paleochora's apartment to Almyrida Beach hotel."  width="740"
+class="img-thumbnail"/></p>
+
+# Almyrida
+
+    13.05.15-18.05.15 ALMYRIDA BEACH, Kreta West / Almyrida
+    0030-28250 32075
+
+[Almyrida Beach Hotel][almyrida-hotel]
+
+<p class="text-center"><img
+src="/assets/crete/Almyrida_Beach_Hotel.png" alt="The Almyrida Beach
+Hotel."  width="740" class="img-thumbnail"/></p>
+
+<p class="text-center"><img
+src="/assets/crete/Almyrida_Beach_Hotel_Pool_01.png" alt="One of three
+pools at the Almyrida Beach Hotel."  width="740"
+class="img-thumbnail"/></p>
+
+<p class="text-center"><img
+src="/assets/crete/Almyrida_Beach-Plakias_Bay_Hotel.png" alt="From
+Almyrida Beach hotel to Plakias Bay hotel."  width="740"
+class="img-thumbnail"/></p>
+
+# Plakias
+
+    18.05.15-25.05.15 PLAKIAS BAY, Kreta Mitte / Plakias
+    0030-28320 31215
+
+[Plakias Bay Hotel][plakiasbay-hotel]
+
+<p class="text-center"><img src="/assets/crete/Plakias_Bay.png"
+alt="Map of Plakias." width="740" class="img-thumbnail"/></p>
+
+<p class="text-center"><img
+src="/assets/crete/Plakias_Bay_Hotel_apartment.png" alt="The
+apartments at Plakias Bay Hotel."  width="740"
+class="img-thumbnail"/></p>
+
+<p class="text-center"><img
+src="/assets/crete/Plakias_Bay_Hotel-Kernos_Beach_Hotel.png" alt="From
+Plakias Bay hotel to Kernos Beach hotel."  width="740"
+class="img-thumbnail"/></p>
+
+# Malia
+
+    25.05.15-29.05.15 KERNOS BEACH, Kreta Mitte / Malia
+    0030-28970 31421
+
+[Kernos Beach Hotel][kernosbeach-hotel]
+
+<p class="text-center"><img src="/assets/crete/Kernos_Beach.png"
+alt="Map of Kernos Beach hotel." width="740"
+class="img-thumbnail"/></p>
+
+<p class="text-center"><img
+src="/assets/crete/Kernos_Beach_Hotel_view_from_apartment_01.png"
+alt="View from Kernos Beach hotel apartment."  width="740"
+class="img-thumbnail"/></p>
+
+<p class="text-center"><img
+src="/assets/crete/Kernos_Beach_Hotel-Heraklion.png" alt="From
+Kernos Beach hotel to Heraklion airport."  width="740"
+class="img-thumbnail"/></p>
+
+# Departure - May 29
+
+    10:55 - 13:00 Heraklion - Berlin-Tegel
+
+[paleochora]:        http://www.paleochora.de
+[lito-paleochora]:   http://www.lito-paleochora.gr/en
+[almyrida-hotel]:    http://www.almyridaresort.com
+[plakiasbay-hotel]:  http://plakiasbay.com
+[kernosbeach-hotel]: http://www.kernosbeach.gr
