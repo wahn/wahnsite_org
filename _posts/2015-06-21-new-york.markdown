@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "New York 21st of June 2015"
+date:   2015-06-21 16:50:00
+categories: jekyll photos ny
+imgfolder: /assets/ny 
+images:
+  - name: 20_exchange_01.png
+    text: 20 Exchange - view from apartment
+  - name: 20_exchange_02.png
+    text: 20 Exchange - view from apartment
+  - name: red_museum_ship.png
+    text: Red museum ship
+  - name: peking_hamburg.png
+    text: Black Peking ship
+  - name: beekman_tower_03.png
+    text: Beekman Tower
+  - name: jasper_ward_house.png
+    text: Jasper Ward House
+  - name: industry_kitchen.png
+    text: Industry (Kitchen) sign
+  - name: deutsche_bank.png
+    text: Deutsche Bank
+  - name: old_slip_02.png
+    text: Old Slip
+  - name: helicopter_flight_services_01.png
+    text: Yellow-black helicopter
+  - name: helicopter_flight_services_02.png
+    text: Red helicopter
+  - name: old_slip_03.png
+    text: Old Slip
+  - name: hanover_square.png
+    text: Hanover Sq. - Pearl St.
+  - name: mercantile_grill.png
+    text: (Closed) Mercantile Grill
+---
+
+{% include gal.html %}
