@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Usage Statistics for www.wahnsite.org July 2015"
+date:    2015-07-20 18:30:00
+categories: jekyll stats org 2015
+---
+
+In __July 2015__ we moved to another web cluster and this means the
+end of the current statistics software. So let's publish the latest
+results before deciding where to go from here:
+
+<p class="text-center"><img src="/assets/stats/wahnsite_org_2015.png"
+alt="The statistics for 2015 will end in July." width="650"
+class="img-thumbnail"/></p>
+
+<p class="text-center"><img
+src="/assets/stats/wahnsite_org_2015_monthly.png" alt="The statistics
+for the year 2015 month by month." width="740"
+class="img-thumbnail"/></p>
