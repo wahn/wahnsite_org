@@ -1,0 +1,62 @@
+---
+layout: post
+title:  "New York 3rd of July 2015"
+date:   2015-07-03 16:50:00
+categories: jekyll photos ny
+imgfolder: /assets/ny 
+images:
+  - name: spanish_ship_01.png
+    text: Spanish Ship
+  - name: spanish_ship_02.png
+    text: Spanish Ship
+  - name: l_hermione_01.png
+    text: French Frigate Hermione
+  - name: l_hermione_02.png
+    text: French Frigate Hermione
+  - name: painter_on_pier.png
+    text: Painter on Pier
+  - name: industry_kitchen_02.png
+    text: Industry Kitchen sign
+  - name: helicopter_flight_services_03.png
+    text: Black helicopter (shutter speed 1/250)
+  - name: helicopter_flight_services_04.png
+    text: Black helicopter (shutter speed 1/1000)
+  - name: new_york_state_department_of_financial_services.png
+    text: New York State Department of Financial Services
+  - name: new_york_health_and_racquet_club.png
+    text: New York Health & Racquet Club
+  - name: church_of_our_lady_of_the_rosary.png
+    text: Church of Our Lady of the Rosary
+  - name: east_coast_memorial.png
+    text: East Coast Memorial
+  - name: sightseeing_cruises.png
+    text: Sightseeing Cruises
+  - name: miss_gateway.png
+    text: Miss Gateway
+  - name: 17_state_street.png
+    text: 17 State Street
+  - name: statue_of_liberty_on_a_walk.png
+    text: Statue of Liberty walking
+  - name: fountains_for_kids.png
+    text: Fountains for Kids
+  - name: the_ritz-carlton_02.png
+    text: The Ritz-Carlton
+  - name: whitehall_building_02.png
+    text: Whitehall Building
+  - name: whitehall_building_03.png
+    text: Whitehall Building
+  - name: pier_a.png
+    text: Pier A
+  - name: sailing_boat.png
+    text: Sailing Boat
+  - name: museum_of_jewish_heritage_02.png
+    text: Museum of Jewish Heritage
+  - name: sailing_boat_02.png
+    text: Sailing Boat
+  - name: sailing_boat_03.png
+    text: Sailing Boat
+  - name: 28_west_st.png
+    text: 28 West St
+---
+
+{% include gal.html %}

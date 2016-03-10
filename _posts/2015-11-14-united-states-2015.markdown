@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "United States 2015"
+date:   2015-11-14 13:05:00
+categories: jekyll photos usa
+imgfolder: /assets/usa_2015
+images:
+  - name: la_convention_center_01.png
+    text: Los Angeles Convention Center
+  - name: la_convention_center_02.png
+    text: Los Angeles Convention Center
+  - name: the_westin_bonaventure_hotel.png
+    text: Los Angeles The Westin Bonaventure Hotel
+  - name: marina_city.png
+    text: Chicago Marina City
+  - name: reid_murdoch_building.png
+    text: Chicago Reid-Murdoch Building
+  - name: lasalle_street.png
+    text: Chicago LaSalle Street
+  - name: club_quarters.png
+    text: Chicago Club Quarters Hotel
+  - name: the_new_mill_chi.png
+    text: The new Mill Chicago 
+  - name: red_pelican_truth_or_consequences_nm_01.png
+    text: Red Pelican in Truth or Consequences, NM
+  - name: truth_or_consequences_nm_02.png
+    text: Truth or Consequences, NM
+  - name: truth_or_consequences_nm_03.png
+    text: Siera Grande Lodge, Truth or Consequences, NM
+  - name: truth_or_consequences_nm_04.png
+    text: Truth or Consequences, NM
+  - name: red_pelican_truth_or_consequences_nm_05.png
+    text: Red Pelican in Truth or Consequences, NM
+  - name: red_pelican_truth_or_consequences_nm_06.png
+    text: Red Pelican in Truth or Consequences, NM
+  - name: red_pelican_truth_or_consequences_nm_07.png
+    text: Red Pelican in Truth or Consequences, NM
+  - name: red_pelican_truth_or_consequences_nm_08.png
+    text: Red Pelican in Truth or Consequences, NM
+  - name: red_pelican_truth_or_consequences_nm_09.png
+    text: Red Pelican in Truth or Consequences, NM
+---
+
+{% include gal.html %}
