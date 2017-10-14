@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Naxos - September 2017"
+date:   2017-9-22 12:00:00
+categories: jekyll photos naxos
+imgfolder: /assets/naxos
+images:
+  - name: Piraeus_Leaving.png
+    text: Leaving the port of Pireaus
+  - name: Paros_Leaving.png
+    text: Leaving the port of Paros
+  - name: Naxos_Arrival.png
+    text: Arriving at the port of Naxos
+  - name: Naxos.png
+    text: View at Naxos from Temple of Apollon
+  - name: Portara.png
+    text: View at the Portara (Temple of Apollon)
+  - name: Church.png
+    text: Church within Castle of Naxos
+  - name: Naxos_Houses_01.png
+    text: House on the way from the castle to the port
+  - name: Castle.png
+    text: Castle in Naxos
+  - name: Olive_Press.png
+    text: Olive Press in the Eggares Olive Oil Museum
+  - name: Olive_Oil_Production_Tools.png
+    text: Olive oil production tools in the Eggares Olive Oil Museum
+  - name: Tower_of_Ayia.png
+    text: Tower of Ayia
+  - name: Apollonas_Kouros.png
+    text: The Kouros of Apollonas (Colossus of Dionysus)
+  - name: Kitesurfing.png
+    text: Kitesurfing close to Plaka
+  - name: Mikri_Vigla_House.png
+    text: House in Mikri Vigla
+---
+
+{% include gal.html %}
