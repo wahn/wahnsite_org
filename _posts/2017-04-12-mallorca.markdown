@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Mallorca - April 2017"
+date:   2017-4-12 12:00:00
+categories: jekyll photos mallorca
+imgfolder: /assets/mallorca
+images:
+  - name: DSC06350.png
+    text: DSC06350.png
+  - name: DSC06353.png
+    text: DSC06353.png
+  - name: DSC06364.jpeg
+    text: DSC06364.jpeg
+  - name: DSC06373.jpeg
+    text: DSC06373.jpeg
+  - name: DSC06377.jpeg
+    text: DSC06377.jpeg
+  - name: DSC06409.jpeg
+    text: DSC06409.jpeg
+  - name: DSC06423.jpeg
+    text: DSC06423.jpeg
+  - name: DSC06430.jpeg
+    text: DSC06430.jpeg
+---
+
+{% include gal.html %}
