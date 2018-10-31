@@ -8,6 +8,8 @@ Links
 
 * __Family__
 
+  - [Jan Walter](https://www.janwalter.org)
+
   - [Helmut C. Walter](http://www.walter-art.de)
 
   - [Leeanne Walter](http://www.leekay.de)
